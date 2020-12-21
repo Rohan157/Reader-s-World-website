@@ -1,0 +1,44 @@
+.full{
+    background-color: white;
+    border: solid;
+    border-color: black;
+    margin: 180px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    padding: 50px;
+    
+   
+    float:left;
+}
+.full:active{  
+
+    background-color:pink;
+
+}
+
+.full:hover {
+    text-transform: capitalize;
+    font-size: large;
+    background-color:silver;
+  }
+
+img{
+    padding-right: 20px;
+}
+
+
+.aa{
+    display: flex;
+   
+    
+}
+p{
+    float: left;
+}
+.author{
+    border-radius: 7000px;
+}
+ h1{
+     padding: 15px;
+ }

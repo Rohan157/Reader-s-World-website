@@ -1,0 +1,17 @@
+.Main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    top: 0;
+ 
+    width: 1400px;
+    margin: 0 auto;
+    white-space: nowrap;
+    text-align: center;
+    background-color: white;
+    margin-top: 15px;
+   height:100%;
+   background-image: url("../bg3.png");
+   background-size: 100% 100%;
+  }

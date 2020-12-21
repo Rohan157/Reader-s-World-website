@@ -1,0 +1,36 @@
+
+.content{
+    border-style: hidden;
+    border-width: 5px;
+
+}
+
+.About{
+    height: 500px;
+    width: 70%;
+    background-color: whitesmoke;
+    margin: 20px;
+    padding: 30px;
+    font-size: 25px;
+    margin-left: 300px;
+}
+
+.pak{
+    float: right;
+}
+
+.t{
+    border-style: hidden;
+    width: 30%;
+    border-width: 5px;
+    margin: 20px;
+    margin-top: 300px;   
+}
+
+.tt{
+    border-style: hidden;
+    width: 30%;
+    border-width: 5px;
+    margin: 20px;
+    margin-top: 300px;   
+}
